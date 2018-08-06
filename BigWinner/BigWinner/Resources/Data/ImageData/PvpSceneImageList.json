@@ -1,0 +1,33 @@
+{
+    "data":
+    [
+     "Image/PvpLayer/CP_label_slide.png",
+     "Image/PvpLayer/CP_LifeIcon_D.png",
+     "Image/PvpLayer/CP_LifeIcon_N.png",
+     "Image/PvpLayer/CP_PvpFunIcon1.png",
+     "Image/PvpLayer/CP_PvpFunIcon2.png",
+     "Image/PvpLayer/CP_PvpFunIcon3.png",
+     "Image/PvpLayer/CP_SelRoomBG_D.png",
+     "Image/PvpLayer/CP_SelRoomBG_N.png",
+     "Image/PvpLayer/CP_Useing.png",
+     "Image/PvpLayer/CP_VsIcon.png",
+     "Image/PvpLayer/CP_winbg.png",
+     "Image/PvpLayer/CP_winbg2.png",
+     "Image/LoginLayer/ML_RoleHead.png",
+     "Image/LoginLayer/ML_NameBG.png",
+     "Image/LoginLayer/ML_GmedalIcon.png",
+     "Image/LoginLayer/ML_SmedalIcon.png",
+     "Image/PveLayer/CP_FunButtonBG.png",
+     "Image/BackPack/C_composite_addBtn.png",
+     "Image/BackPack/C_card_star.png",
+     "Image/PveLayer/CP_SchedueBG.png",
+     "Image/PveLayer/CP_TopicLayerBG.png",
+     "Image/PveLayer/CP_Pause_N.png",
+     "Image/PveLayer/CP_Pause_S.png",
+     "Image/PveLayer/CP_GoOn_N.png",
+     "Image/PveLayer/CP_GoOn_S.png",
+     "Image/ShelfLayer/SL_Stars_N.png",
+     "Image/PveLayer/CP_AnswerBG_N.png",
+     "Image/PveLayer/CP_AnswerBG_S.png"
+    ]
+}

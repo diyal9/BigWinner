@@ -1,0 +1,27 @@
+{
+    "data":
+    [
+     "Image/LoginLayer/ML_BG.png",
+     "Image/LoginLayer/ML_RoleHead.png",
+     "Image/LoginLayer/ML_NameBG.png",
+     "Image/LoginLayer/ML_MoneyBG.png",
+     "Image/LoginLayer/ML_MoneyIcon.png",
+     "Image/LoginLayer/ML_MoneyBG.png",
+     "Image/LoginLayer/ML_CardIcon.png",
+     "Image/LoginLayer/ML_AddIcon_N.png",
+     "Image/LoginLayer/ML_AddIcon_S.png",
+     "Image/LoginLayer/ML_GmedalIcon.png",
+     "Image/LoginLayer/ML_SmedalIcon.png",
+     "Image/ShelfLayer/SL_BroadcastBG.png",
+     "Image/ShelfLayer/SL_BroadcastIcon.png",
+     "Image/ShelfLayer/SL_ExitIcon_N.png",
+     "Image/ShelfLayer/SL_ExitIcon_S.png",
+     "Image/ShelfLayer/SL_SmLockIcon.png",
+     "Image/ShelfLayer/SL_SmUnlockIcon.png",
+     "Image/ShelfLayer/SL_SmYihuoIcon.png",
+     "Image/ShelfLayer/SL_Stars_D.png",
+     "Image/ShelfLayer/SL_Stars_N.png",
+     "Image/ShelfLayer/SL_StarsBGUnlock.png",
+     "Image/ShelfLayer/SL_SMIcon_N.png"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "data":
+    [
+     "Image/PveLayer/BossAvatar1.png",
+     "Image/PveLayer/BossWarBG.jpg",
+     "Image/PveLayer/BossWarTitle.png",
+     "Image/PveLayer/BossWarYinhuaBG.png",
+     "Image/PveLayer/CP_AnswerBG_N.png",
+     "Image/PveLayer/CP_AnswerBG_S.png",
+     "Image/PveLayer/CP_BossNameBG.png",
+     "Image/PveLayer/CP_BossTopicBG.png",
+     "Image/PveLayer/CP_FunButtonBG.png",
+     "Image/PveLayer/CP_GoOn_N.png",
+     "Image/PveLayer/CP_GoOn_S.png",
+     "Image/PveLayer/CP_LoseIcon.png",
+     "Image/PveLayer/CP_Pause_N.png",
+     "Image/PveLayer/CP_Pause_S.png",
+     "Image/PveLayer/CP_ResultMenu1_N.png",
+     "Image/PveLayer/CP_ResultMenu1_S.png",
+     "Image/PveLayer/CP_ResultMenu2_N.png",
+     "Image/PveLayer/CP_ResultMenu2_S.png",
+     "Image/PveLayer/CP_SchedueBG.png",
+     "Image/PveLayer/CP_TopicLayerBG.png",
+     "Image/PveLayer/CP_WinICon.png",
+     "Image/ShelfLayer/SL_Stars_N.png",
+     "Image/LoginLayer/ML_MoneyIcon.png",
+     "Image/LoginLayer/ML_CardIcon.png",
+     "Image/BackPack/card_small_temp.png"
+    ]
+}

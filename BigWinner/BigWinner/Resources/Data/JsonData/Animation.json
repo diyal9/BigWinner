@@ -1,0 +1,57 @@
+{
+    "data": 
+        [
+            {
+                "name":"loading",
+                "frameCnt":12
+            },
+            {
+                "name":"proAnimation46",
+                "frameCnt":4
+             },
+             {
+             "name":"proAnimation47",
+             "frameCnt":4
+             },
+             {
+             "name":"proAnimation48",
+             "frameCnt":4
+             },
+             {
+             "name":"proAnimation49",
+             "frameCnt":4
+             },
+             {
+             "name":"proAnimation50",
+             "frameCnt":4
+             },
+             {
+             "name":"proAnimation51",
+             "frameCnt":4
+             },
+             {
+             "name":"stampLightingEffect",
+             "frameCnt":9
+             }
+             ,
+             {
+             "name":"flicker",
+             "frameCnt":8
+             }
+             ,
+             {
+             "name":"RoleSkill",
+             "frameCnt":3
+             }
+             ,
+             {
+             "name":"matching",
+             "frameCnt":7
+             }
+         
+         
+         
+         
+         
+        ]
+}
